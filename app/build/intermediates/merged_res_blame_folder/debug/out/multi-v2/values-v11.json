@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.georgehacks.app-mergeDebugResources-59:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rashi\\.gradle\\caches\\transforms-3\\4a02ae12c224c14c24b05cd6b55a5b7c\\transformed\\jetified-play-services-appinvite-12.0.1\\res\\values-v11\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "172",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        }
+    ]
+}

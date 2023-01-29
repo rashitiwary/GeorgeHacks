@@ -1,0 +1,64 @@
+com.example.georgehacks.app-navigation-runtime-ktx-2.4.1-0 C:\Users\rashi\.gradle\caches\transforms-3\1329cf0e8f990fa33992fef8c0e59b48\transformed\navigation-runtime-ktx-2.4.1\res
+com.example.georgehacks.app-jetified-play-services-base-18.1.0-1 C:\Users\rashi\.gradle\caches\transforms-3\17295f373359b53cf2d05295fa9bb123\transformed\jetified-play-services-base-18.1.0\res
+com.example.georgehacks.app-core-1.8.0-2 C:\Users\rashi\.gradle\caches\transforms-3\17e0468e6f8477414592a37caea74940\transformed\core-1.8.0\res
+com.example.georgehacks.app-jetified-play-services-places-12.0.1-3 C:\Users\rashi\.gradle\caches\transforms-3\22300ab137e3ff8c4fed627ed900d079\transformed\jetified-play-services-places-12.0.1\res
+com.example.georgehacks.app-jetified-firebase-appindexing-12.0.1-4 C:\Users\rashi\.gradle\caches\transforms-3\27f7a49c2401e2504ea44d45ee3981ea\transformed\jetified-firebase-appindexing-12.0.1\res
+com.example.georgehacks.app-coordinatorlayout-1.1.0-5 C:\Users\rashi\.gradle\caches\transforms-3\2d73a6a3b282abf63a71afed3942cd0c\transformed\coordinatorlayout-1.1.0\res
+com.example.georgehacks.app-navigation-common-ktx-2.4.1-6 C:\Users\rashi\.gradle\caches\transforms-3\3272ba8a0aefe3023375db8455446f3b\transformed\navigation-common-ktx-2.4.1\res
+com.example.georgehacks.app-jetified-fragment-ktx-1.4.1-7 C:\Users\rashi\.gradle\caches\transforms-3\3310f3ba33007ade8c5b893a1f390619\transformed\jetified-fragment-ktx-1.4.1\res
+com.example.georgehacks.app-recyclerview-1.1.0-8 C:\Users\rashi\.gradle\caches\transforms-3\34d1de24f06e3056391b3ba3e1a18a0c\transformed\recyclerview-1.1.0\res
+com.example.georgehacks.app-navigation-ui-2.4.1-9 C:\Users\rashi\.gradle\caches\transforms-3\3aa893838077fc539df0521152b98373\transformed\navigation-ui-2.4.1\res
+com.example.georgehacks.app-jetified-core-ktx-1.8.0-10 C:\Users\rashi\.gradle\caches\transforms-3\4328515322e3eecd36ede33d277a81a4\transformed\jetified-core-ktx-1.8.0\res
+com.example.georgehacks.app-jetified-play-services-appinvite-12.0.1-11 C:\Users\rashi\.gradle\caches\transforms-3\4a02ae12c224c14c24b05cd6b55a5b7c\transformed\jetified-play-services-appinvite-12.0.1\res
+com.example.georgehacks.app-fragment-1.4.1-12 C:\Users\rashi\.gradle\caches\transforms-3\4b32be81edc1a01eebc4e6ee9a3b4507\transformed\fragment-1.4.1\res
+com.example.georgehacks.app-jetified-play-services-maps-18.1.0-13 C:\Users\rashi\.gradle\caches\transforms-3\4cc6888d5d9f7469fbaaf8fc9705b9d4\transformed\jetified-play-services-maps-18.1.0\res
+com.example.georgehacks.app-jetified-window-1.0.0-14 C:\Users\rashi\.gradle\caches\transforms-3\537a63348937fdd827598a359f480174\transformed\jetified-window-1.0.0\res
+com.example.georgehacks.app-lifecycle-livedata-core-2.5.1-15 C:\Users\rashi\.gradle\caches\transforms-3\55a80454859d145c4ae6746098a60ca9\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.georgehacks.app-navigation-runtime-2.4.1-16 C:\Users\rashi\.gradle\caches\transforms-3\5b63b86fa5ef3cc8f761bd773c068eea\transformed\navigation-runtime-2.4.1\res
+com.example.georgehacks.app-appcompat-1.5.1-17 C:\Users\rashi\.gradle\caches\transforms-3\657a435f1f2548717eca968888beb204\transformed\appcompat-1.5.1\res
+com.example.georgehacks.app-jetified-activity-1.5.1-18 C:\Users\rashi\.gradle\caches\transforms-3\6e285cb26280b97153dbc85300afeb7b\transformed\jetified-activity-1.5.1\res
+com.example.georgehacks.app-lifecycle-runtime-2.5.1-19 C:\Users\rashi\.gradle\caches\transforms-3\6eb23695eb1b969976bc0db099ae6423\transformed\lifecycle-runtime-2.5.1\res
+com.example.georgehacks.app-jetified-savedstate-1.2.0-20 C:\Users\rashi\.gradle\caches\transforms-3\709cdd7ff08172ff9d6f8db634e6b21e\transformed\jetified-savedstate-1.2.0\res
+com.example.georgehacks.app-navigation-fragment-2.4.1-21 C:\Users\rashi\.gradle\caches\transforms-3\7216172d0637e1fd2db053826c71ca00\transformed\navigation-fragment-2.4.1\res
+com.example.georgehacks.app-jetified-play-services-auth-12.0.1-22 C:\Users\rashi\.gradle\caches\transforms-3\722ea3f1c7cd68652ebf0b6c75ae99b9\transformed\jetified-play-services-auth-12.0.1\res
+com.example.georgehacks.app-jetified-play-services-gcm-12.0.1-23 C:\Users\rashi\.gradle\caches\transforms-3\72359cb973da32bc551273af9f7dd671\transformed\jetified-play-services-gcm-12.0.1\res
+com.example.georgehacks.app-navigation-fragment-ktx-2.4.1-24 C:\Users\rashi\.gradle\caches\transforms-3\8400cafc57508ca8ea6a9f44b4db72e8\transformed\navigation-fragment-ktx-2.4.1\res
+com.example.georgehacks.app-drawerlayout-1.1.1-25 C:\Users\rashi\.gradle\caches\transforms-3\8527b47f25a531c9133f1faedcb9fad8\transformed\drawerlayout-1.1.1\res
+com.example.georgehacks.app-mediarouter-1.0.0-alpha5-26 C:\Users\rashi\.gradle\caches\transforms-3\858b87286522745ea64e7a0621ad7b2b\transformed\mediarouter-1.0.0-alpha5\res
+com.example.georgehacks.app-jetified-play-services-plus-12.0.1-27 C:\Users\rashi\.gradle\caches\transforms-3\892d2b2c22a7a8bcdff095965125394c\transformed\jetified-play-services-plus-12.0.1\res
+com.example.georgehacks.app-jetified-play-services-cast-framework-12.0.1-28 C:\Users\rashi\.gradle\caches\transforms-3\8e0822732e854dc38947831af136f1a2\transformed\jetified-play-services-cast-framework-12.0.1\res
+com.example.georgehacks.app-jetified-play-services-ads-lite-12.0.1-29 C:\Users\rashi\.gradle\caches\transforms-3\90f8240c89898d25c6e09d8b0f38e263\transformed\jetified-play-services-ads-lite-12.0.1\res
+com.example.georgehacks.app-jetified-emoji2-1.2.0-30 C:\Users\rashi\.gradle\caches\transforms-3\91552ae0c1e6eccc648c7fe2690b4596\transformed\jetified-emoji2-1.2.0\res
+com.example.georgehacks.app-jetified-viewpager2-1.0.0-31 C:\Users\rashi\.gradle\caches\transforms-3\949f7554e3fd03253c1a49867ace3cb7\transformed\jetified-viewpager2-1.0.0\res
+com.example.georgehacks.app-jetified-lifecycle-process-2.4.1-32 C:\Users\rashi\.gradle\caches\transforms-3\989f195527a19572e74204ba9e16da34\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.georgehacks.app-navigation-common-2.4.1-33 C:\Users\rashi\.gradle\caches\transforms-3\9e6ae55c141c2d05375bfbfa91640df2\transformed\navigation-common-2.4.1\res
+com.example.georgehacks.app-jetified-play-services-wallet-12.0.1-34 C:\Users\rashi\.gradle\caches\transforms-3\a1cb4fa57f6df5b0d35c0c14defe968a\transformed\jetified-play-services-wallet-12.0.1\res
+com.example.georgehacks.app-navigation-ui-ktx-2.4.1-35 C:\Users\rashi\.gradle\caches\transforms-3\a7dd0a43e900b5543f854caa7fdb1939\transformed\navigation-ui-ktx-2.4.1\res
+com.example.georgehacks.app-material-1.7.0-36 C:\Users\rashi\.gradle\caches\transforms-3\a9638847f0a8a80a456803d259484184\transformed\material-1.7.0\res
+com.example.georgehacks.app-transition-1.4.1-37 C:\Users\rashi\.gradle\caches\transforms-3\a9c98caa7c92f2ad9bbc0e7d3b335909\transformed\transition-1.4.1\res
+com.example.georgehacks.app-slidingpanelayout-1.2.0-38 C:\Users\rashi\.gradle\caches\transforms-3\b58b11d1be6f4bff5b65f827dcf5e5ab\transformed\slidingpanelayout-1.2.0\res
+com.example.georgehacks.app-constraintlayout-2.1.4-39 C:\Users\rashi\.gradle\caches\transforms-3\b79d43e49c6462f6596cd983b3bf9969\transformed\constraintlayout-2.1.4\res
+com.example.georgehacks.app-lifecycle-viewmodel-2.5.1-40 C:\Users\rashi\.gradle\caches\transforms-3\b9385c900d785b4ae017816494d200b2\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.georgehacks.app-jetified-startup-runtime-1.1.1-41 C:\Users\rashi\.gradle\caches\transforms-3\c1d082b8352818fa2dfb6e16c1d3166b\transformed\jetified-startup-runtime-1.1.1\res
+com.example.georgehacks.app-jetified-lifecycle-viewmodel-ktx-2.4.0-42 C:\Users\rashi\.gradle\caches\transforms-3\c3a3c000817b91487954cfe21bf2db90\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0\res
+com.example.georgehacks.app-jetified-play-services-cast-12.0.1-43 C:\Users\rashi\.gradle\caches\transforms-3\c7e44ea34a544c3e0170e1d0add6d501\transformed\jetified-play-services-cast-12.0.1\res
+com.example.georgehacks.app-jetified-emoji2-views-helper-1.2.0-44 C:\Users\rashi\.gradle\caches\transforms-3\c8f938d40bbeac10abc3eeacccf28431\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.georgehacks.app-jetified-play-services-ads-12.0.1-45 C:\Users\rashi\.gradle\caches\transforms-3\ca8e15d85a1d258d73f48a9a4c6c8eff\transformed\jetified-play-services-ads-12.0.1\res
+com.example.georgehacks.app-jetified-play-services-tagmanager-12.0.1-46 C:\Users\rashi\.gradle\caches\transforms-3\cd671097d865d3a0b622494ac42e8933\transformed\jetified-play-services-tagmanager-12.0.1\res
+com.example.georgehacks.app-jetified-firebase-messaging-12.0.1-47 C:\Users\rashi\.gradle\caches\transforms-3\d45a6c1285b419f951cd760da47968da\transformed\jetified-firebase-messaging-12.0.1\res
+com.example.georgehacks.app-jetified-appcompat-resources-1.5.1-48 C:\Users\rashi\.gradle\caches\transforms-3\dd30d0a5f56721f45afc47dcda367a0f\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.georgehacks.app-jetified-play-services-basement-18.1.0-49 C:\Users\rashi\.gradle\caches\transforms-3\e9fcc10b201261f6d5b82263c1cf4ab1\transformed\jetified-play-services-basement-18.1.0\res
+com.example.georgehacks.app-media-1.0.0-rc01-50 C:\Users\rashi\.gradle\caches\transforms-3\ec027375d428fd412998a55329df0cf1\transformed\media-1.0.0-rc01\res
+com.example.georgehacks.app-jetified-annotation-experimental-1.1.0-51 C:\Users\rashi\.gradle\caches\transforms-3\eec108a8d628977c1699c89886e58ddb\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.georgehacks.app-cardview-1.0.0-52 C:\Users\rashi\.gradle\caches\transforms-3\f2d14c50488220282c4aad7738fdcdfc\transformed\cardview-1.0.0\res
+com.example.georgehacks.app-jetified-firebase-crash-12.0.1-53 C:\Users\rashi\.gradle\caches\transforms-3\f6e2dfc9c30355d24688dcea76495722\transformed\jetified-firebase-crash-12.0.1\res
+com.example.georgehacks.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-54 C:\Users\rashi\.gradle\caches\transforms-3\fd32a1c7c1ea34140d264b0f0dee2323\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.georgehacks.app-google-services-55 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\generated\res\google-services\debug
+com.example.georgehacks.app-pngs-56 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\generated\res\pngs\debug
+com.example.georgehacks.app-resValues-57 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\generated\res\resValues\debug
+com.example.georgehacks.app-rs-58 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\generated\res\rs\debug
+com.example.georgehacks.app-packageDebugResources-59 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.georgehacks.app-packageDebugResources-60 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.georgehacks.app-merged_res-61 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\build\intermediates\merged_res\debug
+com.example.georgehacks.app-debug-62 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\src\debug\res
+com.example.georgehacks.app-main-63 C:\Users\rashi\Documents\Documents\George Washington University\Masters Subjects\GeorgeHacks\app\src\main\res
